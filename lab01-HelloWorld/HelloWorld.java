@@ -3,7 +3,7 @@
 //Demo 0
 //Hello World Java Program
 //
-//  first compile he program
+//  first compile the program
 //      javac HelloWorld.java
 //  run the program
 //      java HelloWorld//
