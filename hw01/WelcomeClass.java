@@ -3,7 +3,7 @@
 //WelcomeClass Homework
 //
 //  first compile the program
-//      javac hw01.java
+//      javac WelcomeClass.java
 //  run the program
 //      java WelcomeClass.java//
 
