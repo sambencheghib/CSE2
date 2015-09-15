@@ -9,7 +9,7 @@
 import java.util.Scanner;
 
 //Define a class
-Public class Block {
+public class Block {
     
 //Add a main method
     public static void main(String[] args) {
@@ -36,8 +36,8 @@ Public class Block {
         surfaceArea=2*(widthOfBlock*lengthOfBlock)+2*(lengthOfBlock*heightOfBlock)+2*(heightOfBlock*widthOfBlock);
         
         
-        System.out.println("The volume of the block of dimensions "+lengthOfBlock+"x "+widthOfBlock+"x "+heightOfBlock+"x is"+volume);
-        System.out.println("The surface area of the block is "+surfaceArea);
+        System.out.println("The volume of the block of dimensions "+lengthOfBlock+" x "+widthOfBlock+" x "+heightOfBlock+" x is "+volume+".");
+        System.out.println("The surface area of the block is "+surfaceArea+".");
         
         
     } //end of main method
